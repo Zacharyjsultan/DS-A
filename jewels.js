@@ -5,6 +5,6 @@ function JewelsStone(jewels, stones) {
       count++;
     }
   });
-  console.log(count);
+
   return count;
 }
